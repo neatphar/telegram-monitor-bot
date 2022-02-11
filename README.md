@@ -17,7 +17,7 @@
 
 ---
 
-<p align="center"> 🤖 This bot can be programmed to notify subscribers to certain events.
+<p align="center"> 🤖 A personal customized monitor that utilizes Telegram as a notification platform.
     <br> 
 </p>
 
